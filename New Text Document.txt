@@ -1,0 +1,15 @@
+=============================
+Nếu mới tạo repo
+- git init
+- git add .
+- git commit -m "comment muốn nói"
+- git remote add origin https://github.com/QuocNV1104/hoc_code.git
+- git config --global user.name "QuocNV1104"
+
+
+Nếu đã làm việc tại repo đó nhiều lần 
+- git add .
+- git commit -m "comment muốn nói"
+- git push
+
+Nếu có lỗi thì làm theo hướng dẫn trên màn hình
