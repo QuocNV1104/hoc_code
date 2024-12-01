@@ -2,9 +2,12 @@
 Nếu mới tạo repo
 - git init
 - git add .
+- git config --global user.name "QuocNV1104"
+- git config --global user.email "Nguyenvanquocmd@gmail.com"
 - git commit -m "comment muốn nói"
 - git remote add origin https://github.com/QuocNV1104/hoc_code.git
-- git config --global user.name "QuocNV1104"
+- git push --set-upstream origin master
+- git push
 
 
 Nếu đã làm việc tại repo đó nhiều lần 
